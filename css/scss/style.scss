@@ -9,12 +9,12 @@
 	background-repeat: repeat-x;
 	background-position: center;
 	background-image: image-set(
-		url("/img/offer/back-sm@1x.avif") type("image/avif") 1x,
-		url("/img/offer/back-sm@2x.avif") type("image/avif") 2x,
-		url("/img/offer/back-sm@1x.webp") type("image/webp") 1x,
-		url("/img/offer/back-sm@2x.webp") type("image/webp") 2x,
-		url("/img/offer/back-sm@1x.jpg") type("image/jpg") 1x,
-		url("/img/offer/back-sm@2x.jpg") type("image/jpg") 2x
+		url("/yandex/img/offer/back-sm@1x.avif") type("image/avif") 1x,
+		url("/yandex/img/offer/back-sm@2x.avif") type("image/avif") 2x,
+		url("/yandex/img/offer/back-sm@1x.webp") type("image/webp") 1x,
+		url("/yandex/img/offer/back-sm@2x.webp") type("image/webp") 2x,
+		url("/yandex/img/offer/back-sm@1x.jpg") type("image/jpg") 1x,
+		url("/yandex/img/offer/back-sm@2x.jpg") type("image/jpg") 2x
 	);
 
 	@include media (md-max) {
@@ -23,12 +23,12 @@
 
 	@include media(md) {
 		background-image: image-set(
-			url("/img/offer/back-md@1x.avif") type("image/avif") 1x,
-			url("/img/offer/back-md@2x.avif") type("image/avif") 2x,
-			url("/img/offer/back-md@1x.webp") type("image/webp") 1x,
-			url("/img/offer/back-md@2x.webp") type("image/webp") 2x,
-			url("/img/offer/back-md@1x.png") type("image/png") 1x,
-			url("/img/offer/back-md@2x.png") type("image/png") 2x
+			url("/yandex/img/offer/back-md@1x.avif") type("image/avif") 1x,
+			url("/yandex/img/offer/back-md@2x.avif") type("image/avif") 2x,
+			url("/yandex/img/offer/back-md@1x.webp") type("image/webp") 1x,
+			url("/yandex/img/offer/back-md@2x.webp") type("image/webp") 2x,
+			url("/yandex/img/offer/back-md@1x.png") type("image/png") 1x,
+			url("/yandex/img/offer/back-md@2x.png") type("image/png") 2x
 		);
 	}
 
@@ -40,12 +40,12 @@
 		height: 276.422px;
 		background-repeat: no-repeat;
 		background-image: image-set(
-			url("/img/offer/back-all-sm@1x.avif") type("image/avif") 1x,
-			url("/img/offer/back-all-sm@2x.avif") type("image/avif") 2x,
-			url("/img/offer/back-all-sm@1x.webp") type("image/webp") 1x,
-			url("/img/offer/back-all-sm@2x.webp") type("image/webp") 2x,
-			url("/img/offer/back-all-sm@1x.png") type("image/png") 1x,
-			url("/img/offer/back-all-sm@2x.png") type("image/png") 2x
+			url("/yandex/img/offer/back-all-sm@1x.avif") type("image/avif") 1x,
+			url("/yandex/img/offer/back-all-sm@2x.avif") type("image/avif") 2x,
+			url("/yandex/img/offer/back-all-sm@1x.webp") type("image/webp") 1x,
+			url("/yandex/img/offer/back-all-sm@2x.webp") type("image/webp") 2x,
+			url("/yandex/img/offer/back-all-sm@1x.png") type("image/png") 1x,
+			url("/yandex/img/offer/back-all-sm@2x.png") type("image/png") 2x
 		);
 
 		@include media(md-max) {
@@ -58,12 +58,12 @@
 			width: 1609px;
 			height: 441px;
 			background-image: image-set(
-				url("/img/offer/city-md@1x.avif") type("image/avif") 1x,
-				url("/img/offer/city-md@2x.avif") type("image/avif") 2x,
-				url("/img/offer/city-md@1x.webp") type("image/webp") 1x,
-				url("/img/offer/city-md@2x.webp") type("image/webp") 2x,
-				url("/img/offer/city-md@1x.png") type("image/png") 1x,
-				url("/img/offer/city-md@2x.png") type("image/png") 2x
+				url("/yandex/img/offer/city-md@1x.avif") type("image/avif") 1x,
+				url("/yandex/img/offer/city-md@2x.avif") type("image/avif") 2x,
+				url("/yandex/img/offer/city-md@1x.webp") type("image/webp") 1x,
+				url("/yandex/img/offer/city-md@2x.webp") type("image/webp") 2x,
+				url("/yandex/img/offer/city-md@1x.png") type("image/png") 1x,
+				url("/yandex/img/offer/city-md@2x.png") type("image/png") 2x
 			);
 		}
 	}
@@ -592,12 +592,12 @@
 		font-size: 18px;
 		padding: 16px 16px 16px 56px;
 		background-image: image-set(
-			url("/img/stages/back-md@1x.avif") type("image/avif") 1x,
-			url("/img/stages/back-md@2x.avif") type("image/avif") 2x,
-			url("/img/stages/back-md@1x.webp") type("image/webp") 1x,
-			url("/img/stages/back-md@2x.webp") type("image/webp") 2x,
-			url("/img/stages/back-md@1x.jpg") type("image/jpg") 1x,
-			url("/img/stages/back-md@2x.jpg") type("image/jpg") 2x
+			url("/yandex/img/stages/back-md@1x.avif") type("image/avif") 1x,
+			url("/yandex/img/stages/back-md@2x.avif") type("image/avif") 2x,
+			url("/yandex/img/stages/back-md@1x.webp") type("image/webp") 1x,
+			url("/yandex/img/stages/back-md@2x.webp") type("image/webp") 2x,
+			url("/yandex/img/stages/back-md@1x.jpg") type("image/jpg") 1x,
+			url("/yandex/img/stages/back-md@2x.jpg") type("image/jpg") 2x
 		);
 		background-repeat: no-repeat;
 		background-size: 1066px 489px;
@@ -706,12 +706,12 @@
 	padding-top: 62px;
 	padding-bottom: 35px;
 	background-image: image-set(
-		url("/img/stages/back-md@1x.avif") type("image/avif") 1x,
-		url("/img/stages/back-md@2x.avif") type("image/avif") 2x,
-		url("/img/stages/back-md@1x.webp") type("image/webp") 1x,
-		url("/img/stages/back-md@2x.webp") type("image/webp") 2x,
-		url("/img/stages/back-md@1x.jpg") type("image/jpg") 1x,
-		url("/img/stages/back-md@2x.jpg") type("image/jpg") 2x
+		url("/yandex/img/stages/back-md@1x.avif") type("image/avif") 1x,
+		url("/yandex/img/stages/back-md@2x.avif") type("image/avif") 2x,
+		url("/yandex/img/stages/back-md@1x.webp") type("image/webp") 1x,
+		url("/yandex/img/stages/back-md@2x.webp") type("image/webp") 2x,
+		url("/yandex/img/stages/back-md@1x.jpg") type("image/jpg") 1x,
+		url("/yandex/img/stages/back-md@2x.jpg") type("image/jpg") 2x
 	);
 	background-size: 1066px 489px;
 	background-position: center;
@@ -878,12 +878,12 @@
 	background-position: center;
 	margin-bottom: 28px;
 	background-image: image-set(
-			url("/img/stages/back-md@1x.avif") type("image/avif") 1x,
-			url("/img/stages/back-md@2x.avif") type("image/avif") 2x,
-			url("/img/stages/back-md@1x.webp") type("image/webp") 1x,
-			url("/img/stages/back-md@2x.webp") type("image/webp") 2x,
-			url("/img/stages/back-md@1x.jpg") type("image/jpg") 1x,
-			url("/img/stages/back-md@2x.jpg") type("image/jpg") 2x
+			url("/yandex/img/stages/back-md@1x.avif") type("image/avif") 1x,
+			url("/yandex/img/stages/back-md@2x.avif") type("image/avif") 2x,
+			url("/yandex/img/stages/back-md@1x.webp") type("image/webp") 1x,
+			url("/yandex/img/stages/back-md@2x.webp") type("image/webp") 2x,
+			url("/yandex/img/stages/back-md@1x.jpg") type("image/jpg") 1x,
+			url("/yandex/img/stages/back-md@2x.jpg") type("image/jpg") 2x
 		);
 
 		@include media(md) {

@@ -250,8 +250,8 @@ body::-webkit-scrollbar-thumb {
   overflow-x: hidden;
   background-repeat: repeat-x;
   background-position: center;
-  background-image: -webkit-image-set(url("/img/offer/back-sm@1x.avif") type("image/avif") 1x, url("/img/offer/back-sm@2x.avif") type("image/avif") 2x, url("/img/offer/back-sm@1x.webp") type("image/webp") 1x, url("/img/offer/back-sm@2x.webp") type("image/webp") 2x, url("/img/offer/back-sm@1x.jpg") type("image/jpg") 1x, url("/img/offer/back-sm@2x.jpg") type("image/jpg") 2x);
-  background-image: image-set(url("/img/offer/back-sm@1x.avif") type("image/avif") 1x, url("/img/offer/back-sm@2x.avif") type("image/avif") 2x, url("/img/offer/back-sm@1x.webp") type("image/webp") 1x, url("/img/offer/back-sm@2x.webp") type("image/webp") 2x, url("/img/offer/back-sm@1x.jpg") type("image/jpg") 1x, url("/img/offer/back-sm@2x.jpg") type("image/jpg") 2x);
+  background-image: -webkit-image-set(url("/yandex/img/offer/back-sm@1x.avif") type("image/avif") 1x, url("/yandex/img/offer/back-sm@2x.avif") type("image/avif") 2x, url("/yandex/img/offer/back-sm@1x.webp") type("image/webp") 1x, url("/yandex/img/offer/back-sm@2x.webp") type("image/webp") 2x, url("/yandex/img/offer/back-sm@1x.jpg") type("image/jpg") 1x, url("/yandex/img/offer/back-sm@2x.jpg") type("image/jpg") 2x);
+  background-image: image-set(url("/yandex/img/offer/back-sm@1x.avif") type("image/avif") 1x, url("/yandex/img/offer/back-sm@2x.avif") type("image/avif") 2x, url("/yandex/img/offer/back-sm@1x.webp") type("image/webp") 1x, url("/yandex/img/offer/back-sm@2x.webp") type("image/webp") 2x, url("/yandex/img/offer/back-sm@1x.jpg") type("image/jpg") 1x, url("/yandex/img/offer/back-sm@2x.jpg") type("image/jpg") 2x);
 }
 @media (max-width: 1023.9px) {
   .header {
@@ -260,8 +260,8 @@ body::-webkit-scrollbar-thumb {
 }
 @media (min-width: 768px) {
   .header {
-    background-image: -webkit-image-set(url("/img/offer/back-md@1x.avif") type("image/avif") 1x, url("/img/offer/back-md@2x.avif") type("image/avif") 2x, url("/img/offer/back-md@1x.webp") type("image/webp") 1x, url("/img/offer/back-md@2x.webp") type("image/webp") 2x, url("/img/offer/back-md@1x.png") type("image/png") 1x, url("/img/offer/back-md@2x.png") type("image/png") 2x);
-    background-image: image-set(url("/img/offer/back-md@1x.avif") type("image/avif") 1x, url("/img/offer/back-md@2x.avif") type("image/avif") 2x, url("/img/offer/back-md@1x.webp") type("image/webp") 1x, url("/img/offer/back-md@2x.webp") type("image/webp") 2x, url("/img/offer/back-md@1x.png") type("image/png") 1x, url("/img/offer/back-md@2x.png") type("image/png") 2x);
+    background-image: -webkit-image-set(url("/yandex/img/offer/back-md@1x.avif") type("image/avif") 1x, url("/yandex/img/offer/back-md@2x.avif") type("image/avif") 2x, url("/yandex/img/offer/back-md@1x.webp") type("image/webp") 1x, url("/yandex/img/offer/back-md@2x.webp") type("image/webp") 2x, url("/yandex/img/offer/back-md@1x.png") type("image/png") 1x, url("/yandex/img/offer/back-md@2x.png") type("image/png") 2x);
+    background-image: image-set(url("/yandex/img/offer/back-md@1x.avif") type("image/avif") 1x, url("/yandex/img/offer/back-md@2x.avif") type("image/avif") 2x, url("/yandex/img/offer/back-md@1x.webp") type("image/webp") 1x, url("/yandex/img/offer/back-md@2x.webp") type("image/webp") 2x, url("/yandex/img/offer/back-md@1x.png") type("image/png") 1x, url("/yandex/img/offer/back-md@2x.png") type("image/png") 2x);
   }
 }
 .header::after {
@@ -271,8 +271,8 @@ body::-webkit-scrollbar-thumb {
   width: 887.437px;
   height: 276.422px;
   background-repeat: no-repeat;
-  background-image: -webkit-image-set(url("/img/offer/back-all-sm@1x.avif") type("image/avif") 1x, url("/img/offer/back-all-sm@2x.avif") type("image/avif") 2x, url("/img/offer/back-all-sm@1x.webp") type("image/webp") 1x, url("/img/offer/back-all-sm@2x.webp") type("image/webp") 2x, url("/img/offer/back-all-sm@1x.png") type("image/png") 1x, url("/img/offer/back-all-sm@2x.png") type("image/png") 2x);
-  background-image: image-set(url("/img/offer/back-all-sm@1x.avif") type("image/avif") 1x, url("/img/offer/back-all-sm@2x.avif") type("image/avif") 2x, url("/img/offer/back-all-sm@1x.webp") type("image/webp") 1x, url("/img/offer/back-all-sm@2x.webp") type("image/webp") 2x, url("/img/offer/back-all-sm@1x.png") type("image/png") 1x, url("/img/offer/back-all-sm@2x.png") type("image/png") 2x);
+  background-image: -webkit-image-set(url("/yandex/img/offer/back-all-sm@1x.avif") type("image/avif") 1x, url("/yandex/img/offer/back-all-sm@2x.avif") type("image/avif") 2x, url("/yandex/img/offer/back-all-sm@1x.webp") type("image/webp") 1x, url("/yandex/img/offer/back-all-sm@2x.webp") type("image/webp") 2x, url("/yandex/img/offer/back-all-sm@1x.png") type("image/png") 1x, url("/yandex/img/offer/back-all-sm@2x.png") type("image/png") 2x);
+  background-image: image-set(url("/yandex/img/offer/back-all-sm@1x.avif") type("image/avif") 1x, url("/yandex/img/offer/back-all-sm@2x.avif") type("image/avif") 2x, url("/yandex/img/offer/back-all-sm@1x.webp") type("image/webp") 1x, url("/yandex/img/offer/back-all-sm@2x.webp") type("image/webp") 2x, url("/yandex/img/offer/back-all-sm@1x.png") type("image/png") 1x, url("/yandex/img/offer/back-all-sm@2x.png") type("image/png") 2x);
 }
 @media (max-width: 1023.9px) {
   .header::after {
@@ -285,8 +285,8 @@ body::-webkit-scrollbar-thumb {
     transform: translateX(-50%);
     width: 1609px;
     height: 441px;
-    background-image: -webkit-image-set(url("/img/offer/city-md@1x.avif") type("image/avif") 1x, url("/img/offer/city-md@2x.avif") type("image/avif") 2x, url("/img/offer/city-md@1x.webp") type("image/webp") 1x, url("/img/offer/city-md@2x.webp") type("image/webp") 2x, url("/img/offer/city-md@1x.png") type("image/png") 1x, url("/img/offer/city-md@2x.png") type("image/png") 2x);
-    background-image: image-set(url("/img/offer/city-md@1x.avif") type("image/avif") 1x, url("/img/offer/city-md@2x.avif") type("image/avif") 2x, url("/img/offer/city-md@1x.webp") type("image/webp") 1x, url("/img/offer/city-md@2x.webp") type("image/webp") 2x, url("/img/offer/city-md@1x.png") type("image/png") 1x, url("/img/offer/city-md@2x.png") type("image/png") 2x);
+    background-image: -webkit-image-set(url("/yandex/img/offer/city-md@1x.avif") type("image/avif") 1x, url("/yandex/img/offer/city-md@2x.avif") type("image/avif") 2x, url("/yandex/img/offer/city-md@1x.webp") type("image/webp") 1x, url("/yandex/img/offer/city-md@2x.webp") type("image/webp") 2x, url("/yandex/img/offer/city-md@1x.png") type("image/png") 1x, url("/yandex/img/offer/city-md@2x.png") type("image/png") 2x);
+    background-image: image-set(url("/yandex/img/offer/city-md@1x.avif") type("image/avif") 1x, url("/yandex/img/offer/city-md@2x.avif") type("image/avif") 2x, url("/yandex/img/offer/city-md@1x.webp") type("image/webp") 1x, url("/yandex/img/offer/city-md@2x.webp") type("image/webp") 2x, url("/yandex/img/offer/city-md@1x.png") type("image/png") 1x, url("/yandex/img/offer/city-md@2x.png") type("image/png") 2x);
   }
 }
 .header__wrapper {
@@ -813,8 +813,8 @@ body::-webkit-scrollbar-thumb {
   .stages__item {
     font-size: 18px;
     padding: 16px 16px 16px 56px;
-    background-image: -webkit-image-set(url("/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
-    background-image: image-set(url("/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
+    background-image: -webkit-image-set(url("/yandex/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/yandex/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/yandex/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/yandex/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/yandex/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/yandex/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
+    background-image: image-set(url("/yandex/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/yandex/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/yandex/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/yandex/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/yandex/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/yandex/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
     background-repeat: no-repeat;
     background-size: 1066px 489px;
     background-position: center;
@@ -921,8 +921,8 @@ body::-webkit-scrollbar-thumb {
   row-gap: 30px;
   padding-top: 62px;
   padding-bottom: 35px;
-  background-image: -webkit-image-set(url("/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
-  background-image: image-set(url("/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
+  background-image: -webkit-image-set(url("/yandex/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/yandex/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/yandex/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/yandex/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/yandex/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/yandex/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
+  background-image: image-set(url("/yandex/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/yandex/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/yandex/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/yandex/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/yandex/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/yandex/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
   background-size: 1066px 489px;
   background-position: center;
   background-repeat: no-repeat;
@@ -1092,8 +1092,8 @@ body::-webkit-scrollbar-thumb {
   background-size: 377px 780px;
   background-position: center;
   margin-bottom: 28px;
-  background-image: -webkit-image-set(url("/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
-  background-image: image-set(url("/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
+  background-image: -webkit-image-set(url("/yandex/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/yandex/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/yandex/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/yandex/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/yandex/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/yandex/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
+  background-image: image-set(url("/yandex/img/stages/back-md@1x.avif") type("image/avif") 1x, url("/yandex/img/stages/back-md@2x.avif") type("image/avif") 2x, url("/yandex/img/stages/back-md@1x.webp") type("image/webp") 1x, url("/yandex/img/stages/back-md@2x.webp") type("image/webp") 2x, url("/yandex/img/stages/back-md@1x.jpg") type("image/jpg") 1x, url("/yandex/img/stages/back-md@2x.jpg") type("image/jpg") 2x);
 }
 @media (min-width: 768px) {
   .participants__picture-wrap {
